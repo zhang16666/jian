@@ -2,6 +2,6 @@ package zhang;
 
 public class liu {
 	public static void main(String[] args) {
-		System.out.println("giao11À´");
+		System.out.println("giao11æ¥");
 	}
 }
